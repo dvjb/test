@@ -2,7 +2,7 @@
 
 const a = 1;
 
-a = 12;
+a = 39;
 
 console.log('에러가 날까요?', a)
 
